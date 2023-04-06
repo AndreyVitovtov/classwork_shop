@@ -1,0 +1,7 @@
+.description-product {
+    flex-direction: column;
+}
+
+.description-product .product, .description-product .characteristics {
+    width: 100%;
+}
